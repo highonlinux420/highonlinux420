@@ -24,6 +24,12 @@ I'm a Computer Science student with a passion for building beautiful, functional
 
 **Rent Cars React** is a single-page application that allows users to browse and explore a variety of rental cars. It fetches live data from a hosted API and displays detailed car information in a clean, responsive UI.
 
+Key features include:
+
+- Live data rendering from a remote JSON API
+- Individual car detail pages
+- A smooth and responsive experience with modern UI styling
+- Built with performance in mind using React + Vite
 ---
 
 Thanks for stopping by! Feel free to check out my repositories and drop a star if you like what you see.
