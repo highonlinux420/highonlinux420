@@ -15,7 +15,7 @@ I'm a Computer Science student with a passion for building beautiful, functional
 - Collaborating on group projects
 
 ## 📫 Let's Connect
-- LinkedIn: [linkedin.com/in/adel-bourouis-1a4ba4350](https://tn.linkedin.com/in/adel-bourouis-1a4ba4350)
+- LinkedIn: [linkedin.com/in/adel-bourouis-1a4ba4350](https://tn.linkedin.com/in/adelbourouis)
 - Email: [adelbourouis9@gmail.com](mailto:adelbourouis9@gmail.com)
 
 ## 📁 Featured Projects
