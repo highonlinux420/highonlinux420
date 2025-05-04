@@ -1,6 +1,6 @@
 # Hi there, I'm Adel 👋
 
-I'm a Computer Science student with a passion for building beautiful, functional, and responsive web interfaces. I specialize in **frontend development** with a focus on **React**, and I'm always exploring new tools and best practices in modern web development.
+I'm a Software Engineering student with a passion for building beautiful, functional, and responsive web interfaces. I specialize in **frontend development** with a focus on **React**, and I'm always exploring new tools and best practices in modern web development.
 
 ## 🔧 Tech Stack
 
