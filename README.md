@@ -1,35 +1,35 @@
 # Hi there, I'm Adel 👋
 
-I'm a Software Engineering student with a passion for building beautiful, functional, and responsive web interfaces. I specialize in **frontend development** with a focus on **React**, and I'm always exploring new tools and best practices in modern web development.
+I am a Fullstack Web Developer and Software Engineering student based in Sfax, Tunisia. I love bridging the gap between backend logic and frontend user experience. Whether I'm designing relational databases or crafting responsive UI components, I focus on writing clean, maintainable, and scalable code. I thrive in remote, asynchronous environments and am always tinkering with new tools in the JS/TS ecosystem.
 
-## 🔧 Tech Stack
+## 🛠️ My Tech Stack
 
-- **Languages**: JavaScript, HTML5, CSS3, Python
-- **Frameworks/Libraries**: React.
-- **Tools**: Git, VS Code, npm, Figma
-- **Backend Basics**: Node.js, Express, REST APIs
+- **Frontend:** React, Next.js, Angular, TypeScript, Tailwind CSS
+- **Backend:** Nest.js, Express
+- **Databases:** PostgreSQL, MySQL, TypeORM
+- **Tools:** Git, Docker, Postman, Jest, Bash
 
-## 🚀 What I'm Working on
+## 🚀 Featured Work
 
-- Building personal projects to deepen my knowledge of **React and modern frontend architectures**
-- Collaborating on group projects
+### 🎮 Gaming Center Management System
+*Angular | Nest.js | PostgreSQL | Supabase*
+
+A complete monorepo solution built to automate the day-to-day operations of modern gaming lounges. 
+- Features a centralized admin dashboard for real-time PC station monitoring and digital credit management.
+- Leverages Supabase for secure cookie-based auth and strict Role-Based Access Control (RBAC).
+
+### ⚽ Football Match Ticketing Platform
+*Next.js 16 | React 19 | Tailwind CSS 4 | Zod*
+
+A high-performance ticketing application featuring a client-facing marketplace and an admin control panel.
+- Built utilizing the Next.js App Router for optimal client-side routing and React Context for state management.
+- Ensures total type safety and bulletproof form validation using Zod.
 
 ## 📫 Let's Connect
-- LinkedIn: [linkedin.com/in/adelbourouis](https://tn.linkedin.com/in/adelbourouis)
-- Email: [adelbourouis9@gmail.com](mailto:adelbourouis9@gmail.com)
 
-## 📁 Featured Projects
+- **LinkedIn:** [linkedin.com/in/adelbourouis](https://linkedin.com/in/adelbourouis/)
+- **Email:** [adelbourouis9@gmail.com](mailto:adelbourouis9@gmail.com)
 
-### [Car Renting Website Frontend](https://github.com/highonlinux420/rent-cars-react)
-
-**Rent Cars React** is a single-page application that allows users to browse and explore a variety of rental cars. It fetches live data from a hosted API and displays detailed car information in a clean, responsive UI.
-
-Key features include:
-
-- Live data rendering from a remote JSON API
-- Individual car detail pages
-- A smooth and responsive experience with modern UI styling
-- Built with performance in mind using React + Vite
 ---
 
-Thanks for stopping by! Feel free to check out my repositories and drop a star if you like what you see.
+Thanks for stopping by! Feel free to explore my repositories and drop a star if you find something useful. 🌟
